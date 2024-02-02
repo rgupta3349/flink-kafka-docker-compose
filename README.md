@@ -1,4 +1,4 @@
-# flink-kafka-docker-compose
+# flink-kafka-docker-compose.
  
 ## Setup your flink & kafka cluster via docker compose
 ```
