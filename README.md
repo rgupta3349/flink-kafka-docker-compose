@@ -4,7 +4,7 @@
 ```
 1. Flink Job Manager
 2. Flink Task Manager
-3. Kafka
+3. Kafka.
 4. Zookeeper
 ```
 
